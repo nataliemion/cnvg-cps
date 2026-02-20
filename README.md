@@ -1,4 +1,4 @@
-# 📜 KidsScale Manager 2026
+# 📜 KidsSchedule Manager 2026
 
 Sistema inteligente para geração automatizada da escala do Ministério Infantil. O algoritmo utiliza lógica elástica de priorização para garantir o preenchimento das salas respeitando restrições eclesiásticas, de gênero e de parentesco.
 
